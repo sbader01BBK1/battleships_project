@@ -3,6 +3,20 @@
   
  Author: Sam Baderman
  
+ The program can be run by cloning this repo, navigating to the directory in the command line and entering
+ 
+ ```
+$ python extension.py
+```
+
+for the visual version, or
+
+```
+$ python battleships.py
+```
+
+for the version without visualisation.
+
  
  ## General idea of the assignment
 
